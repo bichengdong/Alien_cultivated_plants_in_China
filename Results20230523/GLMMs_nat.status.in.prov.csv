@@ -1,0 +1,7 @@
+"","effect","group","term","estimate","std.error","statistic","p.value"
+"1","fixed",NA,"(Intercept)",-1.603246222859,0.0985588889392679,-16.2668861237562,1.69564206616169e-59
+"2","fixed",NA,"hab_suit_mean_scaled",1.03999605097638,0.0317511080388837,32.7546380335062,2.60797655922835e-235
+"3","fixed",NA,"prov_planting_status1",1.08432366698679,0.0471866725580096,22.9794475474778,7.48330577864893e-117
+"4","fixed",NA,"hab_suit_mean_scaled:prov_planting_status1",-0.321592888351306,0.0396549838327547,-8.10977227244948,5.0714718822477e-16
+"5","ran_pars","Standardized_names","sd__(Intercept)",1.29449216850661,NA,NA,NA
+"6","ran_pars","prov_code","sd__(Intercept)",0.470056731269929,NA,NA,NA

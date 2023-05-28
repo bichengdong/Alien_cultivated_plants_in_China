@@ -1,0 +1,11 @@
+"variable","levels","Africa","Asia_Temperate","Asia_Tropical","Australasia","Europe","Northern_America","Pacific","Southern_America"
+"Life_form_new",1,35,25,11,10,17,68,NA,31
+"Life_form_new",2,951,155,494,104,215,677,2,1211
+"Life_form_new",3,964,149,433,581,82,1055,68,977
+"ali_new_status",0,2262,454,1311,755,370,1856,76,2401
+"ali_new_status",1,218,27,60,21,21,187,3,153
+"prop_type",1,217,44,80,140,30,264,33,184
+"prop_type",2,254,57,142,45,18,139,12,300
+"prop_type",3,1033,184,250,149,227,1226,5,1000
+"wcup_eco_use_status",0,1527,271,784,420,218,1018,53,1808
+"wcup_eco_use_status",1,953,210,587,356,173,1025,26,746

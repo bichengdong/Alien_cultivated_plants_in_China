@@ -1,0 +1,17 @@
+"variable","levels","Africa","Antarctic","Asia_Temperate","Asia_Tropical","Australasia","Europe","Northern_America","Pacific","Southern_America"
+"bg_num",NA,2480,0,481,1371,776,391,2043,79,2554
+"prov_num",NA,2480,0,481,1371,776,391,2043,79,2554
+"ali_new_status",0,2262,NA,454,1311,755,370,1856,76,2401
+"ali_new_status",1,218,NA,27,60,21,21,187,3,153
+"wcup_eco_use_status",0,1527,NA,271,784,420,218,1018,53,1808
+"wcup_eco_use_status",1,953,NA,210,587,356,173,1025,26,746
+"hab_suit_mean",NA,680,0,208,164,596,265,1172,7,745
+"new_sum.L3.code",NA,2480,0,481,1371,776,391,2043,79,2554
+"residence_time_to_2020",NA,201,0,168,295,108,96,317,8,267
+"Life_form_new",1,35,NA,25,11,10,17,68,NA,31
+"Life_form_new",2,951,NA,155,494,104,215,677,2,1211
+"Life_form_new",3,964,NA,149,433,581,82,1055,68,977
+"prop_type",1,217,NA,44,80,140,30,264,33,184
+"prop_type",2,254,NA,57,142,45,18,139,12,300
+"prop_type",3,1033,NA,184,250,149,227,1226,5,1000
+"Height_max_max",NA,1374,0,278,395,447,274,1594,56,1403
